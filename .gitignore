@@ -1,0 +1,4 @@
+﻿#Não captura essas pastas ao salvar no git.
+obj
+bin
+*.vs/
